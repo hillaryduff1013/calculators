@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+#display{
+  background-color: black;
+  border: none;
+  width: 280px;
+  text-align: right;
+  font-size: 70px;
+  color: white;
+}
+
+.btn {
+  border-radius: 50px;
+  background-color: gray;
+  border-color: gray;
+  width: 70px;
+  height: 70px;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: cursive;
+}
+
+#zero {
+    width: 140px;
+}
+
+#game {
+    width: 140px;
+    position: relative;
+    left: 80px;
+    top: 20px;
+}
+
+#divi, #tim, #min, #plu, #equ {
+    background-color: darkorange;
+} 
+
+#AC, #perc, #plus {
+    background-color: #E8E7E7;
+}
